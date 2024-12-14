@@ -1,0 +1,10 @@
+^T:\PROPER RAY TRACING\BUILD\CMAKEFILES\A042F33F7C9BCFF0056EE305D7A469F2\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-ST:/Proper Ray Tracing" "-BT:/Proper Ray Tracing/build" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "T:/Proper Ray Tracing/build/RayTracing.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
