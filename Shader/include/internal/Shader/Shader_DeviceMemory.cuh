@@ -1,0 +1,6 @@
+#ifndef SHADER_DEVICEMEMORY_H
+#define SHADER_DEVICEMEMORY_H
+
+
+
+#endif

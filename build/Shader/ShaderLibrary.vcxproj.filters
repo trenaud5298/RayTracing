@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="T:\Proper Ray Tracing V2\Shader\src\interface\Shader.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="T:\Proper Ray Tracing V2\Shader\src\interface\Shader_Logging.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="T:\Proper Ray Tracing V2\Shader\src\interface\Shader_ResourceManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="T:\Proper Ray Tracing V2\Shader\src\interface\Shader_Settings.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="T:\Proper Ray Tracing V2\Shader\src\interface\Shader_World.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="T:\Proper Ray Tracing V2\Shader\src\internal\Shader_FileCatalog.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="T:\Proper Ray Tracing V2\Shader\src\internal\Shader_HostMemory.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="T:\Proper Ray Tracing V2\Shader\include\interface\Shader\Shader.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="T:\Proper Ray Tracing V2\Shader\include\interface\Shader\Shader_Logging.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="T:\Proper Ray Tracing V2\Shader\include\interface\Shader\Shader_ResourceManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="T:\Proper Ray Tracing V2\Shader\include\interface\Shader\Shader_Settings.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="T:\Proper Ray Tracing V2\Shader\include\interface\Shader\Shader_Timer.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="T:\Proper Ray Tracing V2\Shader\include\interface\Shader\Shader_World.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="T:\Proper Ray Tracing V2\Shader\include\internal\Shader\Shader_FileCatalog.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="T:\Proper Ray Tracing V2\Shader\include\internal\Shader\Shader_HostMemory.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="T:\Proper Ray Tracing V2\Shader\include\internal\Shader\Shader_Log.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CudaCompile Include="..\..\Shader\src\internal\Shader_Constants.cu">
+      <Filter>Source Files</Filter>
+    </CudaCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="T:\Proper Ray Tracing V2\Shader\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="T:\Proper Ray Tracing V2\Shader\include\interface\Shader\Shader_Constants.cuh">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="T:\Proper Ray Tracing V2\Shader\include\interface\Shader\Shader_Structs.cuh">
+      <Filter>Header Files</Filter>
+    </None>
+    <None Include="T:\Proper Ray Tracing V2\Shader\include\internal\Shader\Shader_DeviceMemory.cuh">
+      <Filter>Header Files</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{E532C04D-037C-3BD0-95B4-ED71E6C3E398}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{44A75EE1-4BFA-3804-8F96-C9E70FBEEC67}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

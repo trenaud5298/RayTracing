@@ -2,13 +2,13 @@
 <Project>
   <ProjectOutputs>
     <ProjectOutput>
-      <FullPath>T:\Proper Ray Tracing\build\x64\Debug\ZERO_CHECK</FullPath>
+      <FullPath>T:\Proper Ray Tracing V2\build\x64\Debug\ZERO_CHECK</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>T:\Proper Ray Tracing\build\Debug\RayTracing.exe</FullPath>
+      <FullPath>T:\Proper Ray Tracing V2\build\Application\Debug\Application.exe</FullPath>
     </ProjectOutput>
     <ProjectOutput>
-      <FullPath>T:\Proper Ray Tracing\build\x64\Debug\ALL_BUILD</FullPath>
+      <FullPath>T:\Proper Ray Tracing V2\build\x64\Debug\ALL_BUILD</FullPath>
     </ProjectOutput>
   </ProjectOutputs>
   <ContentFiles />

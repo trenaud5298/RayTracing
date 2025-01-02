@@ -1,0 +1,10 @@
+^T:\PROPER RAY TRACING V2\APPLICATION\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" "-ST:/Proper Ray Tracing V2" "-BT:/Proper Ray Tracing V2/build" --check-stamp-file "T:/Proper Ray Tracing V2/build/Application/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

@@ -1,3 +1,6 @@
-T:/Proper Ray Tracing/build/CMakeFiles/RayTracing.dir
-T:/Proper Ray Tracing/build/CMakeFiles/ALL_BUILD.dir
-T:/Proper Ray Tracing/build/CMakeFiles/ZERO_CHECK.dir
+T:/Proper Ray Tracing V2/build/CMakeFiles/ALL_BUILD.dir
+T:/Proper Ray Tracing V2/build/CMakeFiles/ZERO_CHECK.dir
+T:/Proper Ray Tracing V2/build/Shader/CMakeFiles/ShaderLibrary.dir
+T:/Proper Ray Tracing V2/build/Shader/CMakeFiles/ALL_BUILD.dir
+T:/Proper Ray Tracing V2/build/Application/CMakeFiles/Application.dir
+T:/Proper Ray Tracing V2/build/Application/CMakeFiles/ALL_BUILD.dir

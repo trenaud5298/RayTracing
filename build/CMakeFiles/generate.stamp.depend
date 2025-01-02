@@ -13,26 +13,14 @@ C:/Program Files/CMake/share/cmake-3.29/Modules/Compiler/MSVC-CXX.cmake
 C:/Program Files/CMake/share/cmake-3.29/Modules/Compiler/MSVC.cmake
 C:/Program Files/CMake/share/cmake-3.29/Modules/Compiler/NVIDIA-CUDA.cmake
 C:/Program Files/CMake/share/cmake-3.29/Modules/Compiler/NVIDIA.cmake
-C:/Program Files/CMake/share/cmake-3.29/Modules/FeatureSummary.cmake
 C:/Program Files/CMake/share/cmake-3.29/Modules/Platform/Windows-Initialize.cmake
 C:/Program Files/CMake/share/cmake-3.29/Modules/Platform/Windows-MSVC-CXX.cmake
 C:/Program Files/CMake/share/cmake-3.29/Modules/Platform/Windows-MSVC.cmake
 C:/Program Files/CMake/share/cmake-3.29/Modules/Platform/Windows-NVIDIA-CUDA.cmake
 C:/Program Files/CMake/share/cmake-3.29/Modules/Platform/Windows.cmake
 C:/Program Files/CMake/share/cmake-3.29/Modules/Platform/WindowsPaths.cmake
-T:/Proper Ray Tracing/CMakeLists.txt
-T:/Proper Ray Tracing/build/CMakeFiles/3.29.1/CMakeCUDACompiler.cmake
-T:/Proper Ray Tracing/build/CMakeFiles/3.29.1/CMakeCXXCompiler.cmake
-T:/Proper Ray Tracing/build/CMakeFiles/3.29.1/CMakeRCCompiler.cmake
-T:/Proper Ray Tracing/build/CMakeFiles/3.29.1/CMakeSystem.cmake
-T:/Proper Ray Tracing/libs/SDL3/cmake/SDL3Config.cmake
-T:/Proper Ray Tracing/libs/SDL3/cmake/SDL3ConfigVersion.cmake
-T:/Proper Ray Tracing/libs/SDL3/cmake/SDL3headersTargets.cmake
-T:/Proper Ray Tracing/libs/SDL3/cmake/SDL3sharedTargets-release.cmake
-T:/Proper Ray Tracing/libs/SDL3/cmake/SDL3sharedTargets.cmake
-T:/Proper Ray Tracing/libs/SDL3/cmake/SDL3testTargets-release.cmake
-T:/Proper Ray Tracing/libs/SDL3/cmake/SDL3testTargets.cmake
-T:/Proper Ray Tracing/libs/SDL_ttf/cmake/SDL3_ttf-shared-targets-release.cmake
-T:/Proper Ray Tracing/libs/SDL_ttf/cmake/SDL3_ttf-shared-targets.cmake
-T:/Proper Ray Tracing/libs/SDL_ttf/cmake/SDL3_ttfConfig.cmake
-T:/Proper Ray Tracing/libs/SDL_ttf/cmake/SDL3_ttfConfigVersion.cmake
+T:/Proper Ray Tracing V2/CMakeLists.txt
+T:/Proper Ray Tracing V2/build/CMakeFiles/3.29.1/CMakeCUDACompiler.cmake
+T:/Proper Ray Tracing V2/build/CMakeFiles/3.29.1/CMakeCXXCompiler.cmake
+T:/Proper Ray Tracing V2/build/CMakeFiles/3.29.1/CMakeRCCompiler.cmake
+T:/Proper Ray Tracing V2/build/CMakeFiles/3.29.1/CMakeSystem.cmake

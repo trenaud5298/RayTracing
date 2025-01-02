@@ -3,19 +3,19 @@ import os
 
 scriptDirectory = os.path.dirname(os.path.abspath(__file__))
 buildDirectory = os.path.join(scriptDirectory, "build")
-debugDirectory = os.path.join(buildDirectory, "Debug")
-executablePath = os.path.join(debugDirectory, "RayTracing")
+releaseDirectory = os.path.join(buildDirectory, "Application", "Release")
+executablePath = os.path.join(releaseDirectory, "Application")
 
 print(f"The script is located in: {scriptDirectory}")
 print(f"The build is located in: {buildDirectory}")
-print(f"The debug is located in: {debugDirectory}")
+print(f"The release is located in: {releaseDirectory}")
 print(f"The exe is located in: {executablePath}")
 
 command1 = f'cmake -S "{scriptDirectory}"" -B "{buildDirectory}"'
 
 commands = [
     f'cmake -S "{scriptDirectory}"" -B "{buildDirectory}"',
-    f'cmake --build "{buildDirectory}"',
+    f'cmake --build "{buildDirectory}" --config Release',
     f'"{executablePath}"'
 ]
 

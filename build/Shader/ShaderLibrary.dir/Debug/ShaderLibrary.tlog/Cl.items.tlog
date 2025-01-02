@@ -1,0 +1,7 @@
+T:\Proper Ray Tracing V2\Shader\src\interface\Shader.cpp;T:\Proper Ray Tracing V2\build\Shader\ShaderLibrary.dir\Debug\Shader.obj
+T:\Proper Ray Tracing V2\Shader\src\interface\Shader_Logging.cpp;T:\Proper Ray Tracing V2\build\Shader\ShaderLibrary.dir\Debug\Shader_Logging.obj
+T:\Proper Ray Tracing V2\Shader\src\interface\Shader_ResourceManager.cpp;T:\Proper Ray Tracing V2\build\Shader\ShaderLibrary.dir\Debug\Shader_ResourceManager.obj
+T:\Proper Ray Tracing V2\Shader\src\interface\Shader_Settings.cpp;T:\Proper Ray Tracing V2\build\Shader\ShaderLibrary.dir\Debug\Shader_Settings.obj
+T:\Proper Ray Tracing V2\Shader\src\interface\Shader_World.cpp;T:\Proper Ray Tracing V2\build\Shader\ShaderLibrary.dir\Debug\Shader_World.obj
+T:\Proper Ray Tracing V2\Shader\src\internal\Shader_FileCatalog.cpp;T:\Proper Ray Tracing V2\build\Shader\ShaderLibrary.dir\Debug\Shader_FileCatalog.obj
+T:\Proper Ray Tracing V2\Shader\src\internal\Shader_HostMemory.cpp;T:\Proper Ray Tracing V2\build\Shader\ShaderLibrary.dir\Debug\Shader_HostMemory.obj

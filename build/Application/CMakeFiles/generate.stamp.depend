@@ -1,0 +1,14 @@
+# CMake generation dependency list for this directory.
+C:/Program Files/CMake/share/cmake-3.29/Modules/FeatureSummary.cmake
+T:/Proper Ray Tracing V2/Application/CMakeLists.txt
+T:/Proper Ray Tracing V2/Application/libs/SDL3/cmake/SDL3Config.cmake
+T:/Proper Ray Tracing V2/Application/libs/SDL3/cmake/SDL3ConfigVersion.cmake
+T:/Proper Ray Tracing V2/Application/libs/SDL3/cmake/SDL3headersTargets.cmake
+T:/Proper Ray Tracing V2/Application/libs/SDL3/cmake/SDL3sharedTargets-release.cmake
+T:/Proper Ray Tracing V2/Application/libs/SDL3/cmake/SDL3sharedTargets.cmake
+T:/Proper Ray Tracing V2/Application/libs/SDL3/cmake/SDL3testTargets-release.cmake
+T:/Proper Ray Tracing V2/Application/libs/SDL3/cmake/SDL3testTargets.cmake
+T:/Proper Ray Tracing V2/Application/libs/SDL_ttf/cmake/SDL3_ttf-shared-targets-release.cmake
+T:/Proper Ray Tracing V2/Application/libs/SDL_ttf/cmake/SDL3_ttf-shared-targets.cmake
+T:/Proper Ray Tracing V2/Application/libs/SDL_ttf/cmake/SDL3_ttfConfig.cmake
+T:/Proper Ray Tracing V2/Application/libs/SDL_ttf/cmake/SDL3_ttfConfigVersion.cmake

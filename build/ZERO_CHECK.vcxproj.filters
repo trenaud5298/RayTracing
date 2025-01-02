@@ -1,13 +1,13 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <ItemGroup>
-    <CustomBuild Include="T:\Proper Ray Tracing\build\CMakeFiles\a042f33f7c9bcff0056ee305d7a469f2\generate.stamp.rule">
+    <CustomBuild Include="T:\Proper Ray Tracing V2\build\CMakeFiles\612b70bf85397f7f9dec4d076c6ba731\generate.stamp.rule">
       <Filter>CMake Rules</Filter>
     </CustomBuild>
   </ItemGroup>
   <ItemGroup>
     <Filter Include="CMake Rules">
-      <UniqueIdentifier>{EAC5AB9E-3218-3F58-A9E4-8925CD50598C}</UniqueIdentifier>
+      <UniqueIdentifier>{0B723AD7-AF65-3508-BB99-0701E76FC8C9}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
 </Project>
